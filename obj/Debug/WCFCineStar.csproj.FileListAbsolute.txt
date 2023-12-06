@@ -1,0 +1,7 @@
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\bin\WCFCineStar.dll.config
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\bin\WCFCineStar.dll
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\bin\WCFCineStar.pdb
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\obj\Debug\WCFCineStar.csproj.AssemblyReference.cache
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\obj\Debug\WCFCineStar.csproj.CoreCompileInputs.cache
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\obj\Debug\WCFCineStar.dll
+C:\Users\51946\source\repos\appPlanilla_2023\WCFCineStar\obj\Debug\WCFCineStar.pdb
